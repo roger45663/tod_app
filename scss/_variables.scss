@@ -1,0 +1,26 @@
+/* ==============================================
+                    Color
+============================================== */
+$color-primary: #4A90E2;
+$color-title: #00408B;
+$color-danger: #D0021B;
+$color-active: #F5A623;
+$color-important: #FFF2DC;
+$color-panel-bg: #F2F2F2;
+$color-bg: #E1E1E1;
+$color-btn: #C8C8C8;
+$color-tip: #757575;
+$color-white: #ffffff;
+$color-black: #000000;
+
+
+/* ==============================================
+                    Font
+============================================== */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+$ff-roboto: 'Roboto', '微軟正黑體', 'STHeiti', sans-serif;
+
+$fz-title: 24px;
+$fz-subtitle: 20px;
+$fz-common: 16px;
